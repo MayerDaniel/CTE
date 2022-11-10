@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_player",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "isComplete",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"nickname/CaptureTheEther.sol": "NicknameChallenge"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"nickname/CaptureTheEther.sol": {
+			"keccak256": "0x3ac12f0fea8c8cd220d5cb154c0adb62be34f70b350ab0701f89b15878fa4dcd",
+			"urls": [
+				"bzz-raw://fa4aa4b748fd4f22d56eecf23b8265eafa9b5d16948d890a7f82192af93580ff",
+				"dweb:/ipfs/QmZB3NB5LtVuvCDdpnJ4MkNS5o7Y6onKEwiGM6uUdDxBS2"
+			]
+		}
+	},
+	"version": 1
+}

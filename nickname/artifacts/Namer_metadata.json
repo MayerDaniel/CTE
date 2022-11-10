@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"nickname/nickname.sol": "Namer"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"nickname/nickname.sol": {
+			"keccak256": "0xa25a09d74a5509c4b61878a9b37f49a3775a1dfd5b0fe8230be9787104e14cf5",
+			"urls": [
+				"bzz-raw://dbb102cfeb9f557606b5994afedf4ff36bc18765597bf68f36aed48e8311366b",
+				"dweb:/ipfs/QmerPwLxN5BnxFU4KLYyd18oUsKXGPjUNNedAjAnzwfVJ6"
+			]
+		}
+	},
+	"version": 1
+}

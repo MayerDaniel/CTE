@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "callme",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"callme/caller.sol": "CallMeChallenge"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"callme/caller.sol": {
+			"keccak256": "0x9b643718aed483c654df0b5cfdb5d3f679baa887d3e0d7b882144e99e4fe2ba8",
+			"urls": [
+				"bzz-raw://94a226c73e7c892945f137cb43f16498b57507153f9cefdfcbd30fa8a72cb2a7",
+				"dweb:/ipfs/QmXwbkXup5AkEfHWtvrJ8VRPiCXWb3mKSNX6tVuMbGpGdc"
+			]
+		}
+	},
+	"version": 1
+}

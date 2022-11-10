@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "AssumeOwmershipChallenge",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "authenticate",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "isComplete",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"nickname/nickname.sol": "AssumeOwnershipChallenge"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"nickname/nickname.sol": {
+			"keccak256": "0x6d637f2fdcca3e8f3517821309d000ad09d72aff5d4b47d6a584df01df8ba81b",
+			"urls": [
+				"bzz-raw://9a81fed9e0255b3de882e9ee70eec98577bac84da40e865ed8d6f4acc0a43132",
+				"dweb:/ipfs/QmeLYReZbtDsxz4KDEd253P2pLpfaT8a96BRgVT32CwqLQ"
+			]
+		}
+	},
+	"version": 1
+}
